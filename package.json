@@ -1,0 +1,22 @@
+{
+  "name": "myo_backend",
+  "version": "1.0.0",
+  "description": "Node.js Backend for DisruptHC 2017 Project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DisruptHC/MyoBackend.git"
+  },
+  "author": "DisruptHC <disruptru@gmail.com>",
+  "license": "UNLICENCED",
+  "bugs": {
+    "url": "https://github.com/DisruptHC/MyoBackend/issues"
+  },
+  "homepage": "https://github.com/DisruptHC/MyoBackend#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
