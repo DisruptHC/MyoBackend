@@ -1,0 +1,9 @@
+.vagrant
+node_modules/
+pids
+*.pid
+*.seed
+*.pid.lock
+*.key
+*.log
+*.lock
